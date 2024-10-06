@@ -1,3 +1,4 @@
+
 const headOfTable = "Me!";
 let adjacentLeft: "Susie" | "Tommy";
 let adjacentRight: "Susie" | "Tommy";
